@@ -3,9 +3,10 @@ public class Practice {
 
 	public static void main(String[] args) {
 		
-		System.out.println("±êÇãºê ÇÁ·ÎÁ§Æ® Ä¿¹Ô ¿¬½À");
-		System.out.println("±êÇãºê ÇÁ·ÎÁ§Æ® Ä¿¹Ô ¿¬½À2");
-		System.out.println("±êÇãºê ÇÁ·ÎÁ§Æ® Ä¿¹Ô ¿¬½À3");
+		System.out.println("ê¹ƒí—ˆë¸Œ í”„ë¡œì íŠ¸ ì»¤ë°‹ ì—°ìŠµ");
+		System.out.println("ê¹ƒí—ˆë¸Œ í”„ë¡œì íŠ¸ ì»¤ë°‹ ì—°ìŠµ2");
+		System.out.println("ê¹ƒí—ˆë¸Œ í”„ë¡œì íŠ¸ ì»¤ë°‹ ì—°ìŠµ3");
+		// ê¹ƒí—ˆë¸Œì—ì„œ ì ì–´ë³´ëŠ” ë¬¸ì¥
 	}
 
 }
