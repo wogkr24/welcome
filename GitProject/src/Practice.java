@@ -7,6 +7,7 @@ public class Practice {
 		System.out.println("깃허브 프로젝트 커밋 연습2");
 		System.out.println("깃허브 프로젝트 커밋 연습3");
 		// 깃허브에서 적어보는 문장
+		System.out.println("깃허브 브로젝트 커밋 연습4");
 	}
 
 }
